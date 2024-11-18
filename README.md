@@ -1,7 +1,7 @@
 ![Banner](https://github.com/yoshii001/profileBanner/blob/main/Banner.png?raw=true)
 
 
-<h1 align="center">Hi 👋, I'm yoshini lakna</h1>
+<h1 align="center">Hi 👋, I'm yoshani lakna</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning ****python**, **Node.js****
