@@ -39,11 +39,10 @@
 
 
 <p align="center">
-  <img  src="<p align="center">
   <img src="https://raw.githubusercontent.com/yoshii001/yoshii001/main/dist/snake.svg" alt="snake animation" />
 </p>
-    alt="example" />
-</p>
+
+
 
 
 
