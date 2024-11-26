@@ -1,4 +1,4 @@
-![Banner](https://github.com/yoshii001/profileBanner/blob/main/Banner.png?raw=true)
+![Banner](https://github.com/yoshii001/profileBanner/blob/main/Nbanner.png?raw=true)
 
 
 <h1 align="center">Hi 👋, I'm yoshani lakna</h1>
