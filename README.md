@@ -39,6 +39,9 @@
 
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/yoshii001/yoshii001/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://github.com/yoshii001/yoshii001/blob/main/.github/workflows/snake.yml"
     alt="example" />
 </p>
+
+
+
