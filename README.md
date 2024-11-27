@@ -38,9 +38,10 @@
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yoshii001/yoshii001/main/dist/snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+  <img  src="resources/github-contribution-grid-snake.svg"
+    alt="yoshii001" />
+</div>
 
 
 
