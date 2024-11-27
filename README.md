@@ -25,7 +25,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=yoshii001&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=yoshii001&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshii001&layout=compact&theme=github_dark"/>|<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshii001&layout=compact&theme=github_dark&langs_count=5"/>
+
 
 ### Github Trophies
 <p align="center">
